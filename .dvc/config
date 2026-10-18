@@ -2,3 +2,5 @@
     remote = s3storage
 ['remote "s3storage"']
     url = s3://miad-dvc-smontano1011-2026/dvc-storage
+['remote "fuentelocal"']
+    url = /tmp/dvcstore
